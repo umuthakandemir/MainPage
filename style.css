@@ -56,4 +56,9 @@ body {
     letter-spacing: 5px;
     color: white;
     font-size: 40px;
+ transition: 0.5s;
+}
+
+.main-container i:hover{
+  transform: scale(0.9);
 }
