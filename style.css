@@ -61,4 +61,5 @@ body {
 
 .main-container i:hover{
   transform: scale(0.9);
+  color: black;
 }
