@@ -60,6 +60,6 @@ body {
 }
 
 .main-container i:hover{
-  transform: scale(0.9);
+  font-size: 55px;
   color: black;
 }
